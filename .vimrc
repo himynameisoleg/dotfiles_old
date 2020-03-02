@@ -10,6 +10,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'preservim/nerdtree'
 Plug 'ycm-core/YouCompleteMe'
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 " close / reopen .vimrc, run :PlugInstall
